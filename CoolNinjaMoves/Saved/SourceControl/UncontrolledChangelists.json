@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/samue/OneDrive/Desktop/JGP3CNM/CoolNinjaMoves/Content/ThirdPerson/CombatSystem/BPC_DamageSystem.uasset",
+				"C:/Users/samue/OneDrive/Desktop/JGP3CNM/CoolNinjaMoves/Content/ThirdPerson/CombatSystem/BPI_Damagable.uasset",
+				"C:/Users/samue/OneDrive/Desktop/JGP3CNM/CoolNinjaMoves/Content/ThirdPerson/CombatSystem/E_DamageType.uasset",
+				"C:/Users/samue/OneDrive/Desktop/JGP3CNM/CoolNinjaMoves/Content/ThirdPerson/CombatSystem/S_DamageInfo.uasset",
+				"C:/Users/samue/OneDrive/Desktop/JGP3CNM/CoolNinjaMoves/Content/ThirdPerson/CombatSystem/Enemies/BP_Grunt.uasset",
+				"C:/Users/samue/OneDrive/Desktop/JGP3CNM/CoolNinjaMoves/Content/ThirdPerson/CombatSystem/BP_Player.uasset",
 				"C:/Users/samue/OneDrive/Documents/Unreal Projects/CoolNinjaMoves/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/samue/OneDrive/Documents/Unreal Projects/CoolNinjaMoves/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/samue/OneDrive/Documents/Unreal Projects/CoolNinjaMoves/Content/ThirdPerson/CombatSystem/BPI_Damagable.uasset",
